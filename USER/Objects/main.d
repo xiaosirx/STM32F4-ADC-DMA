@@ -38,3 +38,4 @@
 .\objects\main.o: ..\HARDWARE\oled\iic.h
 .\objects\main.o: ..\HARDWARE\delay\mydelay.h
 .\objects\main.o: ..\HARDWARE\ADC\adc.h
+.\objects\main.o: ..\HARDWARE\dma\dma.h

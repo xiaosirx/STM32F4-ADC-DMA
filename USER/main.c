@@ -1,6 +1,7 @@
 #include "stm32f4xx.h"
 #include "oled.h"
 #include "adc.h"
+#include "dma.h"
 
 u16 data[2];
 
